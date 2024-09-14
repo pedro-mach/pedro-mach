@@ -1,6 +1,6 @@
 ## Olá,prazer, sou Pedro Machado, atualmente estudante se S.I e de programação!!!
 <div>
- (https://github-readme-stats.vercel.app/api?pedro-mach=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipedro-mach=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <div style="display: inline_block"><br>
