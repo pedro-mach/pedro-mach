@@ -4,7 +4,7 @@ About me: Apaixonado por tecnologia e games desde criança, conheci a programaç
   Sempre busquei conher funcionamento de softwares e hardwares e até em areas como design digital já me aventurei. Aos 17 comecei com uma pequena vaga em um estagio de suporte e manutenção, dentro do colegio ao qual estudava, após 6 meses virei assistente de T.I e hoje aos 18, curso Sistemas de Informação e entrei uma vaga de estagio em Infra/DevOps em uma empresa de sistemas.
 </div>
 
-[![pedro-mach's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-mach$show_icons=true&theme=gotham)]
+[![pedro-mach's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-mach&show_icons=true&theme=gotham)]
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
