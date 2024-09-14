@@ -1,6 +1,7 @@
 ## Olá,prazer, sou Pedro Machado, atualmente estudante se S.I e de programação!!!
 <div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apipedro-mach=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+About me: Apaixonado por tecnologia e games desde criança, conheci a programação e o mundo virtual a fundo com 13 anos e foi "amor a primeira vista", sou fascinado pelas digamos "infinitas" possibilidades que o uso da tecnologia pode fazzer em nossa vida.
+  Sempre busquei conher funcionamento de softwares e hardwares e até em areas como design digital já me aventurei. Aos 17 comecei com uma pequena vaga em um estagio de suporte e manutenção, dentro do colegio ao qual estudava, após 6 meses virei assistente de T.I e hoje aos 18, curso Sistemas de Informação e entrei uma vaga de estagio em Infra/DevOps em uma empresa de sistemas.
 </div>
 
 <div style="display: inline_block"><br>
