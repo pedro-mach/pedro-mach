@@ -28,8 +28,8 @@ Engenheiro de Software com foco em **Backend**, automação de rotinas e integra
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=pedro-mach&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="165em" src="https://streak-stats.demolab.com?user=pedro-mach&theme=tokyonight&type=svg" alt="Métricas" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=pedro-mach&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img height="160em" src="https://stats.justsamir.me/api?username=pedro-mach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
