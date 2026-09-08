@@ -1,23 +1,40 @@
-## Olá,prazer, sou Pedro Machado, atualmente estudante se S.I e de programação!!!
-<div>
-About me: Apaixonado por tecnologia e games desde criança, conheci a programação e o mundo virtual a fundo com 13 anos e foi "amor a primeira vista", sou fascinado pelas digamos "infinitas" possibilidades que o uso da tecnologia pode fazzer em nossa vida.
-  Sempre busquei conher funcionamento de softwares e hardwares e até em areas como design digital já me aventurei. Aos 17 comecei com uma pequena vaga em um estagio de suporte e manutenção, dentro do colegio ao qual estudava, após 6 meses virei assistente de T.I e hoje aos 18, curso Sistemas de Informação e entrei uma vaga de estagio em Infra/DevOps em uma empresa de sistemas.
-  <br></br>
-</div>
+# Olá, sou Pedro Machado 👋
 
-![pedro-mach's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedro-mach&show_icons=true&theme=gotham)
+Engenheiro de Software com foco em **Backend**, automação de rotinas e integração de APIs. Atualmente atuo no desenvolvimento de soluções escaláveis em Python e Django, com modelagem de dados em PostgreSQL e interfaces dinâmicas em Vue.js. Também trago background sólido em infraestrutura Linux, suporte avançado e ambientes conteinerizados com Docker.
 
+- 💼 **Atuação:** Software Development Intern (Backend) na Icaro Tech
+- 🎓 **Formação:** Bacharelado em Sistemas de Informação — UNIP (2024 – 2028)
+- 📍 **Localização:** Campinas, SP
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href = "mailto:pedro.machado.empresarial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-machado-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+**Backend & Engenharia:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Frontend & DevOps:**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedro-mach&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-mach&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
+
+---
+
+### 📬 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-oliveira)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroh.machadodeoliveira@gmail.com)
