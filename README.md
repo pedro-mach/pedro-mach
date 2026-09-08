@@ -1,14 +1,14 @@
-# Olá, sou Pedro Machado 👋
+# Olá, sou Pedro Machado
 
 Engenheiro de Software com foco em **Backend**, automação de rotinas e integração de APIs. Atualmente atuo no desenvolvimento de soluções escaláveis em Python e Django, com modelagem de dados em PostgreSQL e interfaces dinâmicas em Vue.js. Também trago background sólido em infraestrutura Linux, suporte avançado e ambientes conteinerizados com Docker.
 
-- 💼 **Atuação:** Software Development Intern (Backend) na Icaro Tech
-- 🎓 **Formação:** Bacharelado em Sistemas de Informação — UNIP (2024 – 2028)
-- 📍 **Localização:** Campinas, SP
+- **Atuação:** Software Development Intern (Backend) na Icaro Tech
+- **Formação:** Bacharelado em Sistemas de Informação — UNIP (2024 – 2027)
+- **Localização:** Campinas, SP
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 **Backend & Engenharia:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@ Engenheiro de Software com foco em **Backend**, automação de rotinas e integra
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="center">
   <img height="160em" src="https://streak-stats.demolab.com?user=pedro-mach&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
@@ -34,7 +34,7 @@ Engenheiro de Software com foco em **Backend**, automação de rotinas e integra
 
 ---
 
-### 📬 Onde me encontrar
+### Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-machado-oliveira)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroh.machadodeoliveira@gmail.com)
